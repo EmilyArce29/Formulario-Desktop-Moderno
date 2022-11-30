@@ -1,0 +1,13 @@
+C:\Users\arcee\source\FormularioModerno\FormularioModerno\bin\Debug\FormularioModerno.exe.config
+C:\Users\arcee\source\FormularioModerno\FormularioModerno\bin\Debug\FormularioModerno.exe
+C:\Users\arcee\source\FormularioModerno\FormularioModerno\bin\Debug\FormularioModerno.pdb
+C:\Users\arcee\source\FormularioModerno\FormularioModerno\obj\Debug\FormularioModerno.csproj.AssemblyReference.cache
+C:\Users\arcee\source\FormularioModerno\FormularioModerno\obj\Debug\FormularioModerno.csproj.SuggestedBindingRedirects.cache
+C:\Users\arcee\source\FormularioModerno\FormularioModerno\obj\Debug\FormularioModerno.Form1.resources
+C:\Users\arcee\source\FormularioModerno\FormularioModerno\obj\Debug\FormularioModerno.Properties.Resources.resources
+C:\Users\arcee\source\FormularioModerno\FormularioModerno\obj\Debug\FormularioModerno.csproj.GenerateResource.cache
+C:\Users\arcee\source\FormularioModerno\FormularioModerno\obj\Debug\FormularioModerno.csproj.CoreCompileInputs.cache
+C:\Users\arcee\source\FormularioModerno\FormularioModerno\obj\Debug\FormularioModerno.exe
+C:\Users\arcee\source\FormularioModerno\FormularioModerno\obj\Debug\FormularioModerno.pdb
+C:\Users\arcee\source\FormularioModerno\FormularioModerno\obj\Debug\FormularioModerno.inicio.resources
+C:\Users\arcee\source\FormularioModerno\FormularioModerno\obj\Debug\FormularioModerno.productos.resources
